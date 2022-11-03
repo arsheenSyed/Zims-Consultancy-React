@@ -1,0 +1,63 @@
+.about {
+  background: #356490;
+}
+
+.about .container {
+  padding-right: 0px !important;
+
+  margin-right: 0px !important;
+}
+
+/* .about .line {
+  background-color: #fff !important;
+} */
+
+.about .about-top-tile {
+  color: #fff;
+}
+
+.about p {
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+  color: white;
+}
+
+.about h1 span {
+  color: #8cc226;
+  font-weight: 800;
+  letter-spacing: -2px;
+}
+
+.btn-about {
+  font-family: "Eb Garamond", serif;
+  background-color: #8771bd;
+  transition: all 0.2s;
+  border: none;
+}
+
+.btn-about:hover {
+  background-color: #795fb9 !important;
+}
+
+/* .line {
+  width: 30px;
+  height: 1.8px;
+  background-color: none !important;
+}
+
+@media only screen and (max-width: 575px) {
+  .line {
+    width: 30px;
+    height: 1.8px;
+    background-color: none !important;
+  }
+} */
+/* .about-inner {
+  position: relative;
+}
+
+.img-about-section img {
+  width: 400px;
+  position: absolute;
+  right: 0px;
+} */

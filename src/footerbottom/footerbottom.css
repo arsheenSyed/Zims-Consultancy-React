@@ -1,0 +1,11 @@
+.footer-bottom {
+  background-color: #75a41d;
+  padding: 10px;
+}
+
+.footer-bottom p {
+  color: white;
+  text-align: center;
+  margin-bottom: 0px !important;
+  font-family: "EB Garamond", serif;
+}

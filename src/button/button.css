@@ -1,0 +1,27 @@
+.btnFunc {
+  font-family: "Eb Garamond", serif;
+  /* background-color: #8771bd; */
+  transition: all 0.2s;
+  border: none;
+}
+
+.btnFunc.btnblue {
+  background-color: #8771bd;
+}
+
+.btnFunc.btngreen {
+  background-color: #75a41d;
+}
+
+.btnFunc.width {
+  width: 100%;
+  padding: 10px;
+}
+
+.btngreen:hover {
+  background-color: #658d1b !important;
+}
+
+.btnblue:hover {
+  background-color: #795fb9 !important;
+}

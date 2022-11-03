@@ -1,0 +1,103 @@
+/* ---------------- Dynamic Width ----------------- */
+.titleFunc.width-200 {
+  width: 200px;
+}
+
+.titleFunc.width-250 {
+  width: 250px;
+}
+
+.titleFunc.width-300 {
+  width: 300px;
+}
+
+.titleFunc.width-350 {
+  width: 350px;
+}
+
+.titleFunc.width-100p {
+  width: 100%;
+}
+
+.titleFunc .top-title p {
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+}
+
+/* ---------------- Dynamic Width ----------------- */
+
+.titleFunc .top-title .line {
+  width: 40px;
+  height: 17.5px;
+  /* background-color: red; */
+  /* position: relative; */
+  display: flex;
+}
+
+.titleFunc .top-title .line-inner {
+  /* position: absolute; */
+  background-color: #356490;
+  width: 30px;
+  height: 2px;
+}
+
+/* -------- Dynamic ---------------- */
+.titleFunc .top-title .line-inner.topTextblue {
+  background-color: #356490;
+}
+
+.titleFunc .top-title .line-inner.topTextwhite {
+  background-color: #fff;
+}
+
+.titleFunc .top-title .line-inner.topTextgreen {
+  background-color: #8cc226;
+}
+
+.titleFunc .top-title p.topTextgreen {
+  color: #8cc226;
+}
+
+.titleFunc .top-title p.topTextblue {
+  color: #356490;
+}
+
+.titleFunc .top-title p.topTextwhite {
+  color: #fff;
+}
+
+/* -------- Dynamic ---------------- */
+
+.titleFunc h1 {
+  /* margin-top: 0px; */
+  font-size: 30px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  color: #8cc226;
+  letter-spacing: -1.5px;
+}
+
+.titleFunc .bottom-title {
+  margin-top: 20px;
+}
+
+.titleFunc .bottom-title p {
+  font-size: 15px;
+  font-family: "Open Sans", serif;
+}
+
+/* -------- Dynamic ---------------- */
+
+.titleFunc .bottom-title .bottomTextwhite {
+  color: white;
+}
+
+.titleFunc .bottom-title .bottomTextblue {
+  color: #356490;
+}
+
+.titleFunc .bottom-title .bottomTextblack {
+  color: #000;
+}
+
+/* -------- Dynamic ---------------- */

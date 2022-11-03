@@ -1,0 +1,30 @@
+.NavHome {
+  box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-collapse {
+  width: 100% !important;
+}
+
+.nav-link {
+  font-family: "EB Garamond", serif;
+  font-weight: 500;
+  color: #356490 !important;
+}
+
+.navbar-nav.navbar-nav-scroll {
+  max-height: 400px !important;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  .navbar-expand-lg .navbar-collapse {
+    justify-content: end;
+  }
+}
